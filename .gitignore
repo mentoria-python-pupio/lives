@@ -1,2 +1,4 @@
 *.pyc
 *.log
+*.zip
+live3/results/*.txt
