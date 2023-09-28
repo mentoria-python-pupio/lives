@@ -2,3 +2,4 @@
 *.log
 *.zip
 live3/results/*.txt
+live4/results/*
